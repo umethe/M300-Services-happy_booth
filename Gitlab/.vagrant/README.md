@@ -11,5 +11,6 @@
 
 # Tag 3
 - Entscheiden ob MySQL oder SMB [ + ]
+- Informieren über MySQL und interaktion mit einem Webserver [ + ]
 - Mysql oder SMB installieren [ - ]
 - Webinterface für den Dienst [ - ]
