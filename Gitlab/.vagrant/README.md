@@ -9,3 +9,7 @@
 - V-Script mit einer Webserver Konfiguration erstellen [ + ]
 - SSH auf die VM über "vagrant shh" [ + ]
 
+# Tag 3
+- Entscheiden ob MySQL oder SMB [ - ]
+- Mysql oder SMB installieren [ - ]
+- Webinterface für den Dienst [ - ]
