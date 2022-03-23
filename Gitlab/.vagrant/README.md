@@ -6,8 +6,8 @@
 - [Checkliste](#Checklist)
 - [Einführung](#Einführung)
 - [Umgebung](#Umgebung)
-    - [Maschine](### Spezifikationen VM)
-    - [Vagrantfile](### Codebeschreibung)
+    - [Maschine](###Spezifikationen VM)
+    - [Vagrantfile](###Codebeschreibung)
 - [Anleitung](# Anleitungn)
 
 # Checklist
