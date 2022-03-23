@@ -16,7 +16,7 @@
 - User wurde geaddet [ + ]
 - Tabelle wurde erstellt [ + ]
 - Definieren der Mysql/myphpadmin Kreds [ + ]
-- Installation Funktioniert [ ]
+- [ ] Installation Funktioniert 
 
 ## Tag 3
 - Entscheiden ob MySQL oder SMB [ + ]
