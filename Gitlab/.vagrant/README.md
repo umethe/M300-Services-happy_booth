@@ -6,9 +6,9 @@
 - [Checkliste](#Checklist)
 - [Einführung](#Einführung)
 - [Umgebung](#Umgebung)
-    - [Spezifikationen VM](#Spezifikationen VM)
-    - [Codebeschreibung](#Codebeschreibung)
-- [Anleitung](#Anleitungn)
+    - [Spezifikationen VM](#spezifikationen_vm)
+    - [Codebeschreibung](#codebeschreibung)
+- [Anleitung](#anleitungn)
 
 # Checklist
 ## Tag 4
