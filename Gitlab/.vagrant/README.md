@@ -49,8 +49,9 @@ Das Ziel dieser LB ist es ein Vagrant File zu erstellen und zu verstehen welche 
 Das Vagrant File ist minimal gehalten und beschreibt hauptsächlich die Konfiguration der Umgebung:
     - Virualbox Name
     - Memory
-    - Ports
+    - Ports (aus sicherheits gründen nur die Ports weitergeleitet die auch Benutzt werden)
     - Verweisung auf das Konfigurations File das über bash und mysql Command Line durchgeführt wird
+    
 
 Im Bootstrap File wird zubeginn Variablen Definiert die benutzt werden um MySQL und PHPMyAdmin User Inforamtion zu Definieren. 
 Danach werden Updates gesucht
