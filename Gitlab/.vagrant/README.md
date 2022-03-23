@@ -60,3 +60,6 @@ Auf der nächsten Line wird, dann PHPMyAdmin und MySQL-Server installiert.
 Danach wird über die Mysql Commandline Tabellen erstellt und befüllt.
 
 Nacher wird ihm Mysqld.cnf eine Line bearbeiten um Remote Access zuerlauben.
+
+# Anleitung
+Um die Verbindung mit PHPMyAdmin zuerhalten muss wie oben angegeben: http://localhost:8080/phpmyadmin benutzt werden. 
