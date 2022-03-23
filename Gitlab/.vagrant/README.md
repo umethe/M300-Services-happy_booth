@@ -63,3 +63,6 @@ Nacher wird ihm Mysqld.cnf eine Line bearbeiten um Remote Access zuerlauben.
 
 # Anleitung
 Um die Verbindung mit PHPMyAdmin zuerhalten muss wie oben angegeben: http://localhost:8080/phpmyadmin benutzt werden. 
+
+# Quelle:
+MYSQL-Server-vagrant: https://www.yourtechy.com/technology/mysql-server-vagrant-virtualbox/
