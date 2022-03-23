@@ -6,9 +6,9 @@
 - [Checkliste](#Checklist)
 - [Einführung](#Einführung)
 - [Umgebung](#Umgebung)
-    - [Maschine](#Virtualbox-VM)
-    - [Vagrantfile](#boostrap-inhalt)
-- [Umsetzung](#umgebung-umsetzten)
+    - [Maschine](### Spezifikationen VM)
+    - [Vagrantfile](### Codebeschreibung)
+- [Anleitung](# Anleitungn)
 
 # Checklist
 ## Tag 4
