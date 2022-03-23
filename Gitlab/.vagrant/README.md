@@ -1,6 +1,6 @@
 # M300-Services-happy_booth
--Author Luca Blatter
--Vagrant Projekt
+- Author Luca Blatter
+- Vagrant Projekt
 
 # Inahltsverzeichnis
 - [Checkliste](#Checklist)
