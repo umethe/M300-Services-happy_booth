@@ -6,9 +6,9 @@
 - [Checkliste](#Checklist)
 - [Einführung](#Einführung)
 - [Umgebung](#Umgebung)
-    - [Maschine](###Spezifikationen VM)
-    - [Vagrantfile](###Codebeschreibung)
-- [Anleitung](# Anleitungn)
+    - [Spezifikationen VM](###Spezifikationen VM)
+    - [Codebeschreibung](###Codebeschreibung)
+- [Anleitung](#Anleitungn)
 
 # Checklist
 ## Tag 4
