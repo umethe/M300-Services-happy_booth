@@ -16,7 +16,7 @@
 - User wurde geaddet [ + ]
 - Tabelle wurde erstellt [ + ]
 - Definieren der Mysql/myphpadmin Kreds [ + ]
-- [ ] Installation Funktioniert 
+- Installation Funktioniert [ + ]
 
 ## Tag 3
 - Entscheiden ob MySQL oder SMB [ + ]
@@ -67,4 +67,4 @@ Nacher wird ihm Mysqld.cnf eine Line bearbeiten um Remote Access zuerlauben.
 Um die Verbindung mit PHPMyAdmin zuerhalten muss wie oben angegeben: http://localhost:8080/phpmyadmin benutzt werden. 
 
 # Quelle:
-MYSQL-Server-vagrant: https://www.yourtechy.com/technology/mysql-server-vagrant-virtualbox/
+- [] MYSQL-Server-vagrant: https://www.yourtechy.com/technology/mysql-server-vagrant-virtualbox/
