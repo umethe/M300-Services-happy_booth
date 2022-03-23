@@ -10,21 +10,11 @@ Vagrant.configure("2") do |config|
       end
       config.vm.network "forwarded_port", guest: 80, host: 8080
       config.vm.network "forwarded_port", guest: 3306, host: 8081
-      config.vm.provision "shell", inline: <<-SHELL
-         sudo apt-get -y update
-         sudo apt-get -y upgrade
-         sudo apt install -y apache2
-         sudo apt install -y mysql-server
-         # Erlaubt es über Mysql-workbench mit User SSH user+pass 'vagrant'
-         # Und mysql user+pass 'ume' auf die Mysql Datenbank zuzugreifen.
-         sudo cp ./mysqld.cnf /etc/mysql/mysql.conf.d/mysqld.cnf
-         # Add Localhost user = 'ume' pass = 'ume'
-         sudo mysql <<-EOF
-            create user 'ume'@'localhost' identified by 'ume';
-            Grant all privileges on *.* to 'ume'@'localhost';
-            Flush privileges;
-EOF
+      web.vm.provision "shell", path: "bootstrap.sh"
+      
+         
 
-         SHELL
+
+         
       end
    end
