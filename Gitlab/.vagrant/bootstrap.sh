@@ -46,7 +46,7 @@ mysql -uroot -p$DBPASSWD <<%EOF%
 
 cd /vagrant
 
-# update mysql conf file to allow remote access to the db
+# update mysql conf file to allow remote access to the db 
 sudo sed -i "s/.*bind-address.*/bind-address = 0.0.0.0/" /etc/mysql/mysql.conf.d/mysqld.cnf
 
 sudo service mysql restart
