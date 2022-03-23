@@ -37,7 +37,7 @@ Das Ziel dieser LB ist es ein Vagrant File zu erstellen und zu verstehen welche 
 
 # Umgebung
 ## VM
-![virtuelle Umgebung](https://github.com//)
+![virtuelle Umgebung](https://github.com//M300-Services-happy_booth/Gitlab/vagrant-Umgebung.PNG)
 
 ### Spezifikationen VM
 - OS: ubuntu/xenial64
