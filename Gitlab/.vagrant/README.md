@@ -6,8 +6,8 @@
 - [Checkliste](#Checklist)
 - [Einführung](#Einführung)
 - [Umgebung](#Umgebung)
-    - [Spezifikationen VM](###Spezifikationen VM)
-    - [Codebeschreibung](###Codebeschreibung)
+    - [Spezifikationen VM](#Spezifikationen VM)
+    - [Codebeschreibung](#Codebeschreibung)
 - [Anleitung](#Anleitungn)
 
 # Checklist
@@ -39,7 +39,7 @@ Das Ziel dieser LB ist es ein Vagrant File zu erstellen und zu verstehen welche 
 ## VM
 ![virtuelle Umgebung](https://github.com/umethe/M300-Services-happy_booth/blob/dev-luca/Gitlab/vagrant-Umgebung.PNG)
 
-### Spezifikationen VM
+### Spezifikationen_VM
 - OS: ubuntu/xenial64
 - Memory 1024
 - Access: http://localhost:8080/phpmyadmin
