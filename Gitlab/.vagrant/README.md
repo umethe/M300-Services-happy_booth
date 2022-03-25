@@ -68,3 +68,4 @@ Um die Verbindung mit PHPMyAdmin zuerhalten muss wie oben angegeben: http://loca
 
 # Quelle:
 - [ ] MYSQL-Server-vagrant: https://www.yourtechy.com/technology/mysql-server-vagrant-virtualbox/
+- [ ] Hilfe von Meset Istrefi erhalten ST19D
